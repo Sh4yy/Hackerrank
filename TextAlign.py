@@ -1,6 +1,5 @@
-# thickness = int(input()) #This must be an odd number
+thickness = int(input()) #This must be an odd number
 c = 'H'
-thickness = 5
 
 #Top Cone
 for i in range(thickness):
